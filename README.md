@@ -11,6 +11,6 @@
 - ✅ [ToDo List](https://github.com/Seunghyeok8745/todo_list) – HTML/CSS/JS + Netlify公開
 - ✅ [数字当てゲーム](https://github.com/Seunghyeok8745/number-guess-game) – ホラー演出付きJSゲーム
 - ✅ [旅行スケジューリング](https://github.com/Seunghyeok8745/business-server) – SCITチーム開発 + Google Map API
-- ✅ [健康管理アプリ](https://github.com/ken-do-it/javaScript_group_pro_14) – 食事 & 水分トラッキング
+- ✅ [健康管理アプリ](https://github.com/ken-do-it/javaScript_group_pro_14/tree/sh)– 食事 & 水分トラッキング
 
 よろしくお願いいたします！
