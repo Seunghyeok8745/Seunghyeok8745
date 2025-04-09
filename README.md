@@ -10,7 +10,7 @@
 ### My Projects 
 - ✅ [ToDo List](https://github.com/Seunghyeok8745/todo_list) – HTML/CSS/JS + Netlify公開
 - ✅ [数字当てゲーム](https://github.com/Seunghyeok8745/number-guess-game) – ホラー演出付きJSゲーム
-- ✅ [旅行スケジューリング](https://github.com/Seunghyeok8745/business-server) – SCITチーム開発 + Google Map API
+- ✅ [旅行スケジューリング](https://github.com/SCIT-46-B-4/business-server) – SCITチーム開発 + Google Map API
 - ✅ [健康管理アプリ](https://github.com/ken-do-it/javaScript_group_pro_14)– 食事 & 水分トラッキング (私が担当した水分摂取トラッキング機能は、`branch/sh` にて実装されています。)
 
 よろしくお願いいたします！
