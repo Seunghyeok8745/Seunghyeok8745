@@ -11,10 +11,10 @@
 
 ### プロジェクト
 
-- ✅ [ToDoリスト](https://github.com/Seunghyeok8745/todo_list) – HTML/CSS/JS + Netlify公開
-- ✅ [数字当てゲーム](https://github.com/Seunghyeok8745/number-guess-game) – ホラー演出付きのJSゲーム
-- ✅ [旅行スケジューリング](https://github.com/SCIT-46-B-4/business-server) – SCITチーム開発 + Google Map API
-- ✅ [健康管理アプリ](https://github.com/ken-do-it/javaScript_group_pro_14) – 食事 & 水分トラッキング  
+-  [ToDoリスト](https://github.com/Seunghyeok8745/todo_list) – HTML/CSS/JS + Netlify公開
+-  [数字当てゲーム](https://github.com/Seunghyeok8745/number-guess-game) – ホラー演出付きのJSゲーム
+-  [旅行スケジューリング](https://github.com/SCIT-46-B-4/business-server) – SCITチーム開発 + Google Map API
+-  [健康管理アプリ](https://github.com/ken-do-it/javaScript_group_pro_14) – 食事 & 水分トラッキング  
 　　👉 水分摂取機能は [branch/sh](https://github.com/ken-do-it/javaScript_group_pro_14/tree/branch_sh) にて実装しています
 
 
