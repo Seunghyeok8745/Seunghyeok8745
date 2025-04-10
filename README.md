@@ -4,7 +4,7 @@
 日本でITエンジニアとしてキャリアを築くために、独学と専門教育を通してIT開発を学んでいます。
 
 ### スキル・経験
-- JavaScript / HTML / CSS / Java / Spring Boot / MySQL
+- Java / Spring Boot / MySQL / JavaScript / HTML / CSS
 - チーム開発（旅行スケジューリングアプリ、健康管理アプリ）
 - 個人開発（ToDoリスト、ホラーテーマの数字当てゲーム）
 
